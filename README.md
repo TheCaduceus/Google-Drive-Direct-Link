@@ -1,5 +1,5 @@
 # Google-Drive-Direct-Link (Simple!😊)
-Website for Generating Direct Link for Google Drive!
+<b>Website for Generating Direct Link for Google Drive!</b>
 <h2>📇About This!</h2>
 <p><b>Google Drive which is used by Millions of Users, provides "Link Sharing" option to share any particular File or Folder! But everytime when user open it to download, then a boring Google Drive User Interface open and we have to wait! and to bypass this you can use this project or our Website to say good bye to all time taking User-Interface. You can use this link any Download Manager App to download your file to your device!</b></p>
 <h5><b><i>NOTE: If you want to use the direct link to your Website then you can implement the link because link will exist until the file exist!</i></b></h5>
