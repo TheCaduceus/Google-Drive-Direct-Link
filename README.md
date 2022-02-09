@@ -16,6 +16,10 @@
 <p><b>2.I strongly advice you to use our Original Website/Code to perform your task! <a href="https://github.com/TheCaduceus/Google-Drive-Direct-Link">Original Code</a> 🔑</b></p>
 <h2>🤔 Why Use This?</h2>
 <h4><b>Why share link which take time to open and promote Google! You can also download the file directly using any Download Manager App by using this Link. Some users use Google Drive to share files across your Website and do not promote Google Anymore! Don't worry Users can still save files to there Google Account too🤩.</b></h4>
+<h2> 📥Download</h2>
+<h4> You can also Download this GitHub Repository as (.zip) file:</h4>
+<h4> Available Versions for Download: </h4>
+<h4> v2.2.1:<a href="https://github.com/TheCaduceus/Google-Drive-Direct-Link/archive/refs/tags/v2.2.2.zip"> Download Now</a> (Latest)</h4>
 <h2>⛑Contact Us!</h2>
 <h4><b>Visit my Official Website:<a href="https://www.caduceus.ml/"> Official Website</a></b></h4>
 <h4><b>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</b></a>
