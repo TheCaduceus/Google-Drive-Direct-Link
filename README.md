@@ -7,7 +7,7 @@
 <h4><b>1.Fully Independent! All dependency removed.😎</b></h4>
 <h4><b>2.Added Success & Error Message.😉</b></h4>
 <h2>⚙️ How to Use ?</h2>
-<h4><b>1.First open the Website! <a href="">Open it</a></b></h4>
+<h4><b>1.First open the Website! <a href="https://www.caduceus.ml/Google-Drive-Direct-Link/">Open it</a></b></h4>
 <h4><b>2.Then Paste the Google Drive Link you copied at field "Enter Sharing URL"</b></h4>
 <h4><b>3.Now Click "Create Direct Link" and paste the link from field "Output"</b></h4>
 <h4><b>4.Enjoy! The Link by opening it into any Browser.</b></h4>
