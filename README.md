@@ -17,8 +17,8 @@ Website for Generating Direct Link for Google Drive!
 <h2>🤔 Why Use This?</h2>
 <h4><b>Why share link which take time to open and promote Google! You can also download the file directly using any Download Manager App by using this Link. Some users use Google Drive to share files accross your Website and do not promote Google Anymore! Don't worry Users can still save files to there Google Account too🤩.</b></h4>
 <h2>⛑Contact Us!</h2>
-<h4>Visit my Official Website:<a href="https://www.caduceus.ml/"> Official Website</a></h4>
-<h4>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a>
-<h4>Directly Contact the Developer using Telegram <a href="https://telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></h4>
+<h4><b>Visit my Official Website:<a href="https://www.caduceus.ml/"> Official Website</a></b></h4>
+<h4><b>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</b></a>
+<h4><b>Directly Contact the Developer using Telegram <a href="https://telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></b></h4>
 <h2>❤️Credits & Thanks</h2>
-<p><a href="https://github.com/TheCaduceus">Dr.Caduceus</a>: For making Scripts and Website.</p>
+<p><b><a href="https://github.com/TheCaduceus">Dr.Caduceus</a>: For making Scripts and Website.</b></p>
