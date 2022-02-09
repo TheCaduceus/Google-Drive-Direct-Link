@@ -12,7 +12,7 @@
 <h4><b>3.Now Click "Create Direct Link" and paste the link from field "Output"</b></h4>
 <h4><b>4.Enjoy! The Link by opening it into any Browser.</b></h4>
 <h2>🔐 Safe or Not? ✅</h2>
-<p><b>1.Nothing to worry about! Any script used in our Website will not collect or share your Data or Link you provided to generate Direct Link.🔒</b></p>
+<p><b>1.Nothing to worry about! Any script used in our Website will not collect or share your Data or Link you provided to generate Direct Link.�</b></p>
 <p><b>2.I strongly advice you to use our Original Website/Code to perform your task! <a href="https://github.com/TheCaduceus/Google-Drive-Direct-Link">Original Code</a> 🔑</b></p>
 <h2>🤔 Why Use This?</h2>
 <h4><b>Why share link which take time to open and promote Google! You can also download the file directly using any Download Manager App by using this Link. Some users use Google Drive to share files accross your Website and do not promote Google Anymore! Don't worry Users can still save files to there Google Account too🤩.</b></h4>
